@@ -25,3 +25,5 @@ Some of the fuctions that I implement:
 
 ## Execution:
 bash script.sh
+
+**With execution of code we can observe that all entries have been inserted and printed normally and then find an entry with specific id.**
